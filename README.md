@@ -8,6 +8,16 @@ responsive, and SEO-friendly websites and web apps.I specialize in converting cu
 into fully functional products using modern tools and frameworks.</p>
 
 
+<h3>🚀 **What I Do**</h3>
+
+- Craft beautiful UIs from scratch  
+- Convert Figma/PSD designs to code  
+- Optimize websites for speed and SEO  
+- Develop scalable and maintainable web applications
+
+📫 **Let’s turn your vision into reality**  
+Feel free to reach out and start something great!
+
 ###
 
 <h4 align="left">Frontend</h4>
@@ -71,18 +81,6 @@ into fully functional products using modern tools and frameworks.</p>
 </div>
 
 ###
-
-<h3>🚀 **What I Do**</h3>
-
-- Craft beautiful UIs from scratch  
-- Convert Figma/PSD designs to code  
-- Optimize websites for speed and SEO  
-- Develop scalable and maintainable web applications
-
-📫 **Let’s turn your vision into reality**  
-Feel free to reach out and start something great!
-
-
 
 <h3> 📫 Connect with Me </h3>
 
