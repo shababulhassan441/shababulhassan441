@@ -3,12 +3,8 @@
 ---
 🌐 **About Me**
 
-👋 Hello! I'm **Shabab**, a **Full Stack Web Developer** passionate about building visually stunning, responsive, and SEO-friendly websites and web apps. I specialize in converting custom **Figma/PSD designs** into fully functional products using modern tools and frameworks.
+👋 <p>Hello! I'm **Shabab**, a **Full Stack Web Developer** passionate about building visually stunning, responsive, and SEO-friendly websites and web apps.</br> I specialize in converting custom **Figma/PSD designs** into fully functional products using modern tools and frameworks.</p>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shababulhassan441.shababulhassan441&left_color=darkgoldenrod&right_color=cadetblue&left_text=Profile%20Views"  />
-</div>
 
 ###
 
@@ -74,7 +70,7 @@
 
 ###
 
-🚀 **What I Do**
+<h3>🚀 **What I Do**</h3>
 
 - Craft beautiful UIs from scratch  
 - Convert Figma/PSD designs to code  
@@ -84,25 +80,9 @@
 📫 **Let’s turn your vision into reality**  
 Feel free to reach out and start something great!
 
----
 
-## 🌟 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shababulhassan441&show_icons=true&theme=tokyonight" alt="Shabab's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shababulhassan441&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shababulhassan441&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect with Me
+<h3> 📫 Connect with Me </h3>
 
 <p>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
